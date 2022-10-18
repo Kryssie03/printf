@@ -1,6 +1,5 @@
 #ifndef _MAIN_H_
 #define _MAIN_H_
-#define INIT_BITS (4 * 8)
 
 #include <stdarg.h>
 #include <unistd.h>
