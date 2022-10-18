@@ -1,4 +1,4 @@
-include "main.h"
+#include "main.h"
 
 /**
  * convert - function that converts our int to hex, octal, or binary
